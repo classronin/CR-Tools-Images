@@ -1,12 +1,6 @@
 就地取材
 ---
 
-### 图像等比缩放器
+![CR Tools Images](https://origin.picgo.net/2025/09/01/CR-Tools-Imagesf16db27988ceb3c5.png)
 
-![图像等比缩放器](https://origin.picgo.net/2025/09/01/image_scale_keep_aspect4d44d2fb86db37c5.png)
-
-
-### 图像尺寸选择器
-
-![图像尺寸选择器](https://origin.picgo.net/2025/09/01/image_size_selectorf82ed6f2d77fad8f.png)
 
